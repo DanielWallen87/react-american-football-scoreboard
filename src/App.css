@@ -120,3 +120,22 @@
   margin: 1rem;
   border-radius: 4px;
 }
+
+.bottomRow .Buttons {
+  margin-top: 300px;
+}
+
+.quarterButtons_increase, 
+.quarterButtons_decrease,
+.downButtons_increase,
+.downButtons_decrease,
+.downButtons_reset,
+.yardButtons_increase,
+.yardButtons_decrease,
+.yardButtons_reset {
+  color: white;
+  background: black;
+  margin-bottom: 20px;
+  border-radius: 5%;
+  height: 40px;
+}
